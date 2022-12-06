@@ -1,0 +1,33 @@
+{
+  "name": "portfolio",
+  "version": "1.2.2",
+  "main": "js/scripts.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "portfolio",
+    "personal",
+    "website",
+    "tech",
+    "coding",
+    "dev"
+  ],
+  "author": "Francisco Jimenez Benavides",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanFitzgerald/devportfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RyanFitzgerald/devportfolio/issues"
+  },
+  "homepage": "https://github.com/RyanFitzgerald/devportfolio#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
